@@ -12,7 +12,7 @@ class ButtonWithoutLinting extends StatelessWidget {
 
           // The linter/analyser dosent work here, because of
           // the catchError function above is named "catchError"
-          //the linter should show an error here
+          the linter should show an error here
         },
         child: Text("Button Without Linting"),
       ),
